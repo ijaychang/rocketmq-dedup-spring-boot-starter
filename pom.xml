@@ -17,6 +17,7 @@
     <packaging>jar</packaging>
     <name>RocketMQ Dedup Spring Boot Starter</name>
     <description>RocketMQ Dedup Spring Boot Starter</description>
+    <url>https://github.com/ijaychang/rocketmq-dedup-spring-boot-starter</url>
 
     <properties>
         <java.version>1.8</java.version>
