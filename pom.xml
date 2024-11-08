@@ -33,14 +33,14 @@
     </properties>
 
     <scm>
-        <url>https://github.com/jaychang9/rocketmq-dedup-spring-boot-starter</url>
-        <connection>scm:git:git://github.com:jaychang9/rocketmq-dedup-spring-boot-starter.git</connection>
-        <developerConnection>scm:git:git@github.com:jaychang9/rocketmq-dedup-spring-boot-starter.git</developerConnection>
+        <url>https://github.com/ijaychang/rocketmq-dedup-spring-boot-starter</url>
+        <connection>scm:git:git://github.com:ijaychang/rocketmq-dedup-spring-boot-starter.git</connection>
+        <developerConnection>scm:git:git@github.com:ijaychang/rocketmq-dedup-spring-boot-starter.git</developerConnection>
     </scm>
 
     <issueManagement>
         <system>GitHub Issue Management</system>
-        <url>https://github.com/jaychang9/rocketmq-dedup-spring-boot-starter/issues</url>
+        <url>https://github.com/ijaychang/rocketmq-dedup-spring-boot-starter/issues</url>
     </issueManagement>
 
     <developers>
